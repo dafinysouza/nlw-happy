@@ -1,2 +1,2 @@
-# nlw-happy
-Projeto desenvolvido na Next Level Week.
+# Happy
+Projeto desenvolvido na Next Level Week 3.
